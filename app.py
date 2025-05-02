@@ -17,7 +17,7 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
 
 html, body, .stApp {
-    background: linear-gradient(120deg, #d4fc79, #96e6a1);
+    background: linear-gradient(120deg, #ccfc79, #96e6a1);
     color: #2d2d2d;
     font-family: 'Nunito', sans-serif;
     text-align: center;
